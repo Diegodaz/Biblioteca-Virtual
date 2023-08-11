@@ -20,7 +20,7 @@ Además de ello, el presente documento tiene como propósito elicitar ,especific
 
 ### **EVALUACIÓN TÉCNICA DEL PROYECTO**
 
-1. #### [**Estilos de Programación **]([[Docs/Laboratorio 9_  Estilos de Programación.pdf](https://github.com/Diegodaz/Biblioteca-Virtual/blob/d85e4338888c45dd62f05112b7be1daa48efb610/Docs/Laboratorio%209_%20%20Estilos%20de%20Programaci%C3%B3n.pdf)])
+1. #### [**Estilos de Programación **](https://github.com/Diegodaz/Biblioteca-Virtual/blob/d85e4338888c45dd62f05112b7be1daa48efb610/Docs/Laboratorio%209_%20%20Estilos%20de%20Programaci%C3%B3n.pdf)
 
 2. #### [**Codificación Legible **]([https://github.com/cheems-dev/Biblioteca-CS/blob/main/docs/03_readable_coding.md](https://github.com/Diegodaz/Biblioteca-Virtual/blob/d85e4338888c45dd62f05112b7be1daa48efb610/Docs/Laboratorio%2010_%20Codificaci%C3%B3n%20Legible%20(Clean%20Code).pdf))
 
