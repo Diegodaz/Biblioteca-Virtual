@@ -30,4 +30,4 @@ Además de ello, el presente documento tiene como propósito elicitar ,especific
 ### Integrantes:
 
 Diego Alonso Zanabria Sacsi
-Paul Jesus Quispe Morocco
+
