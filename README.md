@@ -22,9 +22,9 @@ Además de ello, el presente documento tiene como propósito elicitar ,especific
 
 1. #### [Estilos de Programación ](https://github.com/Diegodaz/Biblioteca-Virtual/blob/d85e4338888c45dd62f05112b7be1daa48efb610/Docs/Laboratorio%209_%20%20Estilos%20de%20Programaci%C3%B3n.pdf)
 
-2. #### [Codificación Legible ]((https://github.com/Diegodaz/Biblioteca-Virtual/blob/d85e4338888c45dd62f05112b7be1daa48efb610/Docs/Laboratorio%2010_%20Codificaci%C3%B3n%20Legible%20(Clean%20Code).pdf))
+2. #### [Codificación Legible ](https://github.com/Diegodaz/Biblioteca-Virtual/blob/d85e4338888c45dd62f05112b7be1daa48efb610/Docs/Laboratorio%2010_%20Codificaci%C3%B3n%20Legible%20(Clean%20Code).pdf).
 
-3. #### [Principios SOLID aplicados]((https://github.com/Diegodaz/Biblioteca-Virtual/blob/d85e4338888c45dd62f05112b7be1daa48efb610/Docs/Laboratorio%2011_%20Principios%20%20SOLID.pdf)https://github.com/Diegodaz/Biblioteca-Virtual/blob/d85e4338888c45dd62f05112b7be1daa48efb610/Docs/Laboratorio%2011_%20Principios%20%20SOLID.pdf)
+3. #### [Principios SOLID aplicados](https://github.com/Diegodaz/Biblioteca-Virtual/blob/d85e4338888c45dd62f05112b7be1daa48efb610/Docs/Laboratorio%2011_%20Principios%20%20SOLID.pdf)https://github.com/Diegodaz/Biblioteca-Virtual/blob/d85e4338888c45dd62f05112b7be1daa48efb610/Docs/Laboratorio%2011_%20Principios%20%20SOLID.pdf).
 
 
 ### Integrantes:
